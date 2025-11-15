@@ -1,4 +1,5 @@
 <h1>Master's degree capstone</h1>
+Twitter Opinion Mining and Visualization of Ecuadorian Government’s Decisions
  
 <h2>Description</h2>
 A summary of my MSc Final Project
